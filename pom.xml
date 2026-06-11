@@ -28,7 +28,7 @@
 		<url />
 	</scm>
 	<properties>
-		<java.version>21</java.version>	<!-- NÃO ALTERE -->
+		<java.version>17</java.version>	<!-- NÃO ALTERE -->
 	</properties>
 	<dependencies> <!-- ALTERE AS DEPEDÊNCIAS DAQUI ATÉ O FECHAMENTO-->
 		<dependency>
